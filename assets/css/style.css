@@ -1,0 +1,37 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Playfair Display', serif;
+}
+
+.bg-indigo {
+    background: linear-gradient(90deg, #6610f2, #f210a7);
+}
+
+.li_flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.range {
+    width: 300px;
+}
+
+ul {
+    list-style: none;
+}
+
+.card-text-description {
+    font-size: 0.7rem;
+    font-weight: 100;
+}
+
+
